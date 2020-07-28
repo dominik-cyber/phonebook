@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AddressBook>
+	<Contact>
+		<FirstName>Jhon</FirstName>
+		<LastName>Deere</LastName>
+		<Phone type="Mobile">
+			<phonenumber></phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Phone type="Work">
+			<phonenumber>618125235</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+	</Contact>
+	<Contact>
+		<FirstName>Dominik</FirstName>
+		<LastName>Antczak</LastName>
+		<Phone type="Mobile">
+			<phonenumber>513732859</phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+		<Phone type="Work">
+			<phonenumber></phonenumber>
+			<accountindex>0</accountindex>
+		</Phone>
+	</Contact>
+</AddressBook>
